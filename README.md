@@ -1,7 +1,6 @@
-# Todoapp
-A Todo App based on [GetHired DevCode Challenge #1](https://blog.gethired.id/devcode-challenge-1st/), build with:
-- Vite
-- React
-- Tailwind
+# cara instalasi
 
-Hosted On: Firebase
+-git clone https://github.com/rama7466/batarateknologi.git
+-npm install
+-yarn vite
+-open http://localhost:3000/
